@@ -22,7 +22,6 @@ public class XpathOperations  {
         Thread.sleep(2000);
 
         System.out.println("Phones category clicked successfully");
-        System.out.println(driver.getTitle());
-
+        
     }
 }
